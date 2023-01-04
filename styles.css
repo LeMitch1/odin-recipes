@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+.chicken-header {
+    text-decoration: underline;
+}
+
+.links {
+    display: flex;
+    justify-content: space-around;
+}
+
+.images {
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    padding-top: 1rem;
+}
